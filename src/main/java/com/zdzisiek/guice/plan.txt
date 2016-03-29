@@ -1,0 +1,25 @@
+
+* zwykłe injectowanie, named
+* provider
+* assisted inject
+
+Troche gadaania o scopach, providerach i co można z tego mieć
+  * Providers for multiple instances
+  * Providers for lazy loading
+  * Providers for Mixing Scopes
+
+* custom scope
+  * Define a scoping annotation
+  * Implementing the Scope interface
+  * Attaching the scope annotation to the implementation
+  * Triggering scope entry and exit
+
+* customowe adnotacje do injectowania
+  * propertisy, messadze, logi
+
+* guice w testach
+  * nadpisywanie modułów
+
+* moduly króre mozna znaleźć
+  * MultiBindings - wiele do mapy
+
